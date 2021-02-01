@@ -1,3 +1,11 @@
+## :point_right: Deprecated! Please use [Jelvan's fork](https://github.com/Jelvan1/cgame_proxymod) :point_left:
+This repository is deprecated. Please use [Jelvan's fork](https://github.com/Jelvan1/cgame_proxymod) instead, as it:
+- Is actively maintained
+- Has new features (ie. improved CGaz and Snap HUDs) and bug fixes
+- Has binary artifacts for people to just download and drop
+- Greatly improves build and code quality
+- Has much better documentation
+
 # mDd client Proxymod:
 
 This proxymod should help players to train their abilities for the Quake III Arena modification DeFRaG.
